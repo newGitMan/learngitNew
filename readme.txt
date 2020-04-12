@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 push to web.
 Creating a new branch is quick and simple.
 new branch.
+add new line.
