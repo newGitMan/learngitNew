@@ -13,7 +13,7 @@ add new line2.
 add new line3.
 add new line4.
 clone form web.
-branch of master.
+branch of master in clone.
 add new line5.
 add new line6.
 add new line7.
